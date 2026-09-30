@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Automated regression test for appointment confirmation.</description>
+   <name>TC_AI_19_Appointment_Confirmation_Regression</name>
+   <tag>GenAI,Automated,AI,Regression</tag>
+   <comment></comment>
+   <origin>STUDIOASSIST</origin>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>036d93e5-a170-481c-bc2f-1a3f719589ea</testCaseGuid>
+</TestCaseEntity>

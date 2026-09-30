@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Automated regression test for opening the home page.</description>
+   <name>TC_AI_16_Home_Page_Regression</name>
+   <tag>GenAI,Automated,AI,Regression</tag>
+   <comment></comment>
+   <origin>STUDIOASSIST</origin>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>df78543a-1262-4b44-a704-88cba8cc91f9</testCaseGuid>
+</TestCaseEntity>

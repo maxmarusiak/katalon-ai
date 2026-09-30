@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify that a user can upload a valid PDF file through the WebUI.</description>
+   <name>TC_Upload_PDF</name>
+   <tag>GenAI,WebUI,Smoke,FileUpload</tag>
+   <comment></comment>
+   <origin>STUDIOASSIST</origin>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>7585422f-d8a6-4bb1-b208-e9e8fdde98dd</testCaseGuid>
+   <variable>
+      <defaultValue>'C:/path/to/sample.pdf'</defaultValue>
+      <description>Absolute path to a valid PDF file used for upload.</description>
+      <id>18d48de5-db37-4630-be81-6b98eb146461</id>
+      <masked>false</masked>
+      <name>pdfFilePath</name>
+   </variable>
+</TestCaseEntity>

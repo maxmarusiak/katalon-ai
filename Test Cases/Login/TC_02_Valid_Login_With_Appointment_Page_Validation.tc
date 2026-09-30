@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Positive login test using valid Cura credentials and validating the appointment page.</description>
+   <name>TC_02_Valid_Login_With_Appointment_Page_Validation</name>
+   <tag>GenAI</tag>
+   <comment></comment>
+   <origin>STUDIOASSIST</origin>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>dcf0f7c9-6290-408c-97fb-efabf09ccc0d</testCaseGuid>
+</TestCaseEntity>

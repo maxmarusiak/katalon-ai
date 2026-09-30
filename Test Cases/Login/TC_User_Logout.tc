@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify that an authenticated user can log out successfully.</description>
+   <name>TC_User_Logout</name>
+   <tag>GenAI,WebUI,Logout,Smoke</tag>
+   <comment>Logs in with valid credentials, logs out, and verifies the session is no longer authenticated.</comment>
+   <origin>STUDIOASSIST</origin>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>a25992c2-3bfe-4605-aca0-a66e92d920b1</testCaseGuid>
+</TestCaseEntity>

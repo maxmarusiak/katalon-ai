@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_04_Empty_Username</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>b0d0d02c-0464-46a0-8eb1-1f962a7c1ac7</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>c415d69d-8aae-41c0-b77a-98a2747fd675</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'test\r\n'</defaultValue>
+      <description></description>
+      <id>c415d69d-8aae-41c0-b77a-98a2747fd675</id>
+      <masked>false</masked>
+      <name>comment</name>
+   </variable>
+</TestCaseEntity>

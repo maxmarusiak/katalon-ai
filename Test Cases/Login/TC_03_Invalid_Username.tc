@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_03_Invalid_Username</name>
+   <tag>GenAI</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>4b807bfe-334b-441b-8ecd-bb7267d51994</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>53f3fb36-8ed0-4feb-a529-69395348ee18</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'InvalidUser'</defaultValue>
+      <description></description>
+      <id>47a419c3-9648-4a34-9075-953c57d34d91</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>'ThisIsNotAPassword'</defaultValue>
+      <description></description>
+      <id>d738a7c2-5397-4f0d-9ed0-df1907380a89</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>

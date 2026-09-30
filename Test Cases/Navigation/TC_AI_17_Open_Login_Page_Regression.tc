@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Automated regression test for opening the login page.</description>
+   <name>TC_AI_17_Open_Login_Page_Regression</name>
+   <tag>GenAI,Automated,AI,Regression</tag>
+   <comment></comment>
+   <origin>STUDIOASSIST</origin>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>92beb22e-aa0d-46de-a1aa-9bef43484e6e</testCaseGuid>
+</TestCaseEntity>

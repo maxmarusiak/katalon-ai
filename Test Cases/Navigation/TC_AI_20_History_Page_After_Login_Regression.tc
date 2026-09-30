@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Automated regression test for opening appointment history after login.</description>
+   <name>TC_AI_20_History_Page_After_Login_Regression</name>
+   <tag>GenAI,Automated,AI,Regression</tag>
+   <comment></comment>
+   <origin>STUDIOASSIST</origin>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>6f81656d-ac77-4742-af65-ac49de59f57e</testCaseGuid>
+</TestCaseEntity>

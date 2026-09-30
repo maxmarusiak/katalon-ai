@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Empty test case created on request.</description>
+   <name>TC_AI_01</name>
+   <tag>GenAI</tag>
+   <comment></comment>
+   <origin>STUDIOASSIST</origin>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>3cbfb2be-6164-4557-941b-e154b40cbc93</testCaseGuid>
+</TestCaseEntity>

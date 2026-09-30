@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Automated regression test for valid user login.</description>
+   <name>TC_AI_11_Valid_Login_Regression</name>
+   <tag>GenAI,Automated,AI,Regression</tag>
+   <comment></comment>
+   <origin>STUDIOASSIST</origin>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>745842cb-7edf-4c7d-9b8b-8ccc4f6ae438</testCaseGuid>
+</TestCaseEntity>

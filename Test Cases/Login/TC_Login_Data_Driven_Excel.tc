@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Data-driven WebUI login test using username, password, and expected result values from an Excel-compatible test data source.</description>
+   <name>TC_Login_Data_Driven_Excel</name>
+   <tag>GenAI,WebUI,DataDriven,Login</tag>
+   <comment>Create an Excel Test Data entity named LoginCredentials and bind username, password, and expectedResult to its columns before execution.</comment>
+   <origin>STUDIOASSIST</origin>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>3825e5d2-e973-4f9c-bed8-7597a74b9844</testCaseGuid>
+   <variable>
+      <defaultValue>'John Doe'</defaultValue>
+      <description>Login username mapped to the Excel username column.</description>
+      <id>d4a44950-ec59-4589-a599-b6735e220ada</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>'ThisIsNotAPassword'</defaultValue>
+      <description>Login password mapped to the Excel password column.</description>
+      <id>12c93b8a-e539-4e7f-b461-c0cb28b0870c</id>
+      <masked>true</masked>
+      <name>password</name>
+   </variable>
+   <variable>
+      <defaultValue>'SUCCESS'</defaultValue>
+      <description>Expected login outcome, for example SUCCESS or FAILURE.</description>
+      <id>4c8f61ce-7feb-429d-98a5-bac9ddc8ccdd</id>
+      <masked>false</masked>
+      <name>expectedResult</name>
+   </variable>
+</TestCaseEntity>

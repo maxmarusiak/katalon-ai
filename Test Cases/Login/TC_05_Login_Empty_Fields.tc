@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify that login validation rejects submission when username and password are empty.</description>
+   <name>TC_05_Login_Empty_Fields</name>
+   <tag>GenAI,Negative</tag>
+   <comment></comment>
+   <origin>STUDIOASSIST</origin>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>da8f3fbf-a9f7-466b-8ed0-e4c428ae3926</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_20_Unauthorized_Appointment_Access</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>696bd4ad-2b7e-4577-8f7e-cd45ffec77c2</testCaseGuid>
+</TestCaseEntity>

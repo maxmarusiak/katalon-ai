@@ -1,0 +1,8 @@
+{
+  "paths": [
+    "Keywords/com/example/keywords/FileUploadValidation.groovy",
+    "Keywords/com/example/keywords/LoginValidation.groovy",
+    "Keywords/com/example/keywords/WaitForElementVisible.groovy",
+    "Keywords/com/example/keywords/FileUploadVerification.groovy"
+  ]
+}

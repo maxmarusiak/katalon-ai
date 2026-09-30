@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Automated regression test for empty login fields.</description>
+   <name>TC_AI_14_Login_Empty_Fields_Regression</name>
+   <tag>GenAI,Automated,AI,Regression</tag>
+   <comment></comment>
+   <origin>STUDIOASSIST</origin>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>999d8a8d-678a-4356-b307-ef75b17fb513</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Automated regression test for facility selection.</description>
+   <name>TC_AI_18_Facility_Dropdown_Regression</name>
+   <tag>GenAI,Automated,AI,Regression</tag>
+   <comment></comment>
+   <origin>STUDIOASSIST</origin>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>620965fe-d4bf-4a61-a888-11053d1a38f2</testCaseGuid>
+</TestCaseEntity>

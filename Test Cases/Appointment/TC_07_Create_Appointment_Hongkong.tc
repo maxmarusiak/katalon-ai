@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_07_Create_Appointment_Hongkong</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>b720d182-ade4-4093-ac67-d6f792c992de</testCaseGuid>
+</TestCaseEntity>

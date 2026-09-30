@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Automated regression test for logout behavior.</description>
+   <name>TC_AI_15_Logout_Regression</name>
+   <tag>GenAI,Automated,AI,Regression</tag>
+   <comment></comment>
+   <origin>STUDIOASSIST</origin>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>8a9d68e6-c9c7-4031-b668-48c027e98632</testCaseGuid>
+</TestCaseEntity>

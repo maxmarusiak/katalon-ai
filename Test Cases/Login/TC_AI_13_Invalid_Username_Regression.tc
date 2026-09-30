@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Automated regression test for invalid username handling.</description>
+   <name>TC_AI_13_Invalid_Username_Regression</name>
+   <tag>GenAI,Automated,AI,Regression</tag>
+   <comment></comment>
+   <origin>STUDIOASSIST</origin>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>d5300fe8-4ce5-4f63-b294-6cb4338cf63b</testCaseGuid>
+</TestCaseEntity>

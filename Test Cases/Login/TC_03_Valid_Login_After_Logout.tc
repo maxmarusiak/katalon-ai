@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Positive login test confirming a user can log in again after logging out.</description>
+   <name>TC_03_Valid_Login_After_Logout</name>
+   <tag>GenAI</tag>
+   <comment></comment>
+   <origin>STUDIOASSIST</origin>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>1238bc34-ed0e-49b6-9775-e2395d61a5f2</testCaseGuid>
+</TestCaseEntity>

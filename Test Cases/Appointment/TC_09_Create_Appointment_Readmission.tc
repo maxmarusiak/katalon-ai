@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_09_Create_Appointment_Readmission</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>9a3f6963-0be6-4f2b-aae3-e3b72bfddd93</testCaseGuid>
+</TestCaseEntity>

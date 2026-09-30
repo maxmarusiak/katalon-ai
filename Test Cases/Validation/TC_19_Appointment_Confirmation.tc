@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_19_Appointment_Confirmation</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>92aac791-951e-4cba-b41b-68f1c2e31c28</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_06_Create_Appointment_Tokyo</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>c4d36fff-f0dc-46ef-9691-d896295f097b</testCaseGuid>
+</TestCaseEntity>
